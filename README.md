@@ -1,6 +1,6 @@
 # Responsive Landing Page
 
-This is a responsive landing page template designed to provide a visually appealing and user-friendly experience across various devices and screen sizes.
+Responsive landing page using a combination of HTML and CSS. This achievement underscores my ability to design and develop web interfaces that adapt seamlessly to different screen sizes, providing an optimal user experience across various devices. Through this project, I gained valuable insights into structuring content using HTML while also enhancing my skills in styling and formatting using CSS. The landing page showcases my dedication to creating visually engaging and user-friendly interfaces that cater to modern design standards. This is a responsive landing page template designed to provide a visually appealing and user-friendly experience across various devices and screen sizes.
 
 ## Features
 
@@ -22,3 +22,22 @@ This is a responsive landing page template designed to provide a visually appeal
 ## Getting Started
 
 1. Clone the repository:
+
+
+## Home page
+
+![App Screenshot](https://github.com/devgeek2700/PRODIGY_WD_01/blob/master/output1.png?raw=true)
+
+## About us page
+
+![App Screenshot](https://github.com/devgeek2700/PRODIGY_WD_01/blob/master/output2.png?raw=true)
+ 
+## Contact Us page
+
+![App Screenshot](https://github.com/devgeek2700/PRODIGY_WD_01/blob/master/Output3.png?raw=true)
+ 
+## Responsive Design
+
+![App Screenshot](https://github.com/devgeek2700/PRODIGY_WD_01/blob/master/output4.png?raw=true)
+ 
+
