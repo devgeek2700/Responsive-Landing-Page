@@ -22,6 +22,28 @@ Responsive landing page using a combination of HTML and CSS. This achievement un
 ## Getting Started
 
 1. Clone the repository:
+  git clone git@github.com:devgeek2700/PRODIGY_WD_01.git
+
+2. Open `index.html` in your preferred web browser to view the responsive landing page.
+
+## Customization
+
+- **Colors and Styles:** Customize the color scheme, fonts, and styles by modifying the CSS files.
+
+- **Content:** Modify the content of the landing page by editing the HTML file.
+
+- **Images:** Replace the sample images with your own visuals to tailor the landing page to your specific needs.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- This project is inspired by the need for a responsive and visually appealing landing page template suitable for various purposes.
+
+Feel free to contribute to the project, suggest improvements, or adapt it for your own use. Enjoy creating stunning and responsive landing pages!
+
 
 
 ## Home page
