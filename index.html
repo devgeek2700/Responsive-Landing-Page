@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Labding Page</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/fb765b365e.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/fb765b365e.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="head">
+        <i class="fa-solid fa-spa fa-beat-fade"></i>
+
+        <nav class="navbar">
+            <ul class="navbar-list">
+                <li><a class="link" href="#" target="_blank">Home</a></li>
+                <li><a class="link" href="about.html" target="_blank">About</a></li>
+                <li><a class="link" href="#" target="_blank">Shop</a></li>
+                <li><a class="link" href="#" target="_blank">Help</a></li>
+                <li><a class="link" href="contact.html" target="_blank">Contact Us</a></li>
+            </ul>
+        </nav>
+
+        <div class="mob-menu-icons">
+            <ion-icon name="grid-outline" class="mob-icon"></ion-icon>
+            <ion-icon name="close-outline" class="mob-icon"></ion-icon>
+        </div>
+    </header>
+
+    <div class="para_box">
+        <div class="para_txt">
+            <h1>Welcome to Natural Spa</h1>
+            <p>Indulge in a world of relaxation and rejuvenation at Natural Spa Shop. <br> Our luxurious collection of spa products is carefully curated to enhance your well-being and provide you with an unforgettable <br> spa experience in the comfort of your own home. </p>
+            <a href="#" id="btn">Expore More</a>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+
+    <script>
+        let moblieIcon = document.querySelector('.mob-menu-icons');
+        let nav_header = document.querySelector('.head');
+        let toggleNavbar = () => {
+            nav_header.classList.toggle("active")
+        }
+
+        moblieIcon.addEventListener('click', () => toggleNavbar());
+    </script>
+</body>
+
+</html>
